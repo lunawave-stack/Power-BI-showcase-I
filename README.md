@@ -1,6 +1,5 @@
 # Power-BI-showcase-I
-# Power BI Data Visualization Exercise
-
+# Power BI Data Visualization Project 1
 This repository contains a demonstrating the fundamentals of data modeling and visualization using **Microsoft Power BI Desktop**. The report is built from publicly available CSV datasets and showcases interactive dashboards, hierarchical categories and cross-visual filtering.
 
 ## 📄 Overview
