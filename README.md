@@ -1,10 +1,10 @@
 # Power-BI-showcase-I
 # Power BI Data Visualization Exercise
 
-This repository contains a hands-on exercise demonstrating the fundamentals of data modeling and visualization using **Microsoft Power BI Desktop**. The report is built from publicly available CSV datasets and showcases interactive dashboards, hierarchical categories, and cross-visual filtering.
+This repository contains a demonstrating the fundamentals of data modeling and visualization using **Microsoft Power BI Desktop**. The report is built from publicly available CSV datasets and showcases interactive dashboards, hierarchical categories and cross-visual filtering.
 
 ## 📄 Overview
-In this exercise, I:
+In this project, I:
 - Imported customer, product, and order data from external URLs.
 - Built a data model with relationships between tables.
 - Created hierarchies (e.g., Category → Product).
